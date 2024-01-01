@@ -1,4 +1,4 @@
-g<resources>
+<resources>
     <!--  app名称   -->
-    <string name="app_name">chen</string>
+    <string name="app_name">chenrongbox</string>
 </resources>
