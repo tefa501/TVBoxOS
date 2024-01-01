@@ -127,7 +127,7 @@ public class ApiConfig {
     }
 
     public void loadConfig(boolean useCache, LoadConfigCallback callback, Activity activity) {
-        String apiUrl = Hawk.get(HawkConfig.API_URL, "http://xn--sss604efuw.top/tv");
+        String apiUrl = Hawk.get(HawkConfig.API_URL, "http://mytv.tefa501.top:40296/tv/道长线路.json");
         if (apiUrl.isEmpty()) {
             callback.error("-1");
             return;
